@@ -1,6 +1,7 @@
 # 🔍 Credit Card Fraud Detection: Handling Imbalanced Data and Optimizing Classification Models
 
-Welcome to the GitHub repository for an insightful data analytics project that focuses on effectively handling imbalanced datasets and identifying the best classification algorithm for predicting fraud and non-fraud cases in the renowned Kaggle Credit Card Fraud Dataset.
+Welcome to the GitHub repository for an insightful data analytics project that focuses on effectively handling imbalanced datasets and identifying the best classification algorithm for predicting fraud and non-fraud cases in the renowned [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 
 ## 📊 Imbalanced Data Challenges:
 In this project, we tackle the inherent challenges posed by imbalanced datasets. Through careful analysis and implementation of various techniques, we address the issue of class imbalance to ensure accurate modeling and mitigate biased predictions.
